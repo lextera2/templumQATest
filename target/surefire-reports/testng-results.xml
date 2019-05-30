@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="81446" started-at="2019-05-30T20:03:40Z" finished-at="2019-05-30T20:05:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="81446" started-at="2019-05-30T20:03:40Z" finished-at="2019-05-30T20:05:01Z">
+      <class name="testCases.FindAMeetingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.FindAMeetingPageTest@73f792cf]" name="setUp" is-config="true" duration-ms="12000" started-at="2019-05-30T16:03:40Z" finished-at="2019-05-30T16:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_pageTitle_of_findAMeetinPage()[pri:0, instance:testCases.FindAMeetingPageTest@73f792cf]" name="verify_pageTitle_of_findAMeetinPage" duration-ms="6163" started-at="2019-05-30T16:03:52Z" finished-at="2019-05-30T16:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_pageTitle_of_findAMeetinPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.FindAMeetingPageTest@73f792cf]" name="tearDown" is-config="true" duration-ms="5263" started-at="2019-05-30T16:03:58Z" finished-at="2019-05-30T16:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.FindAMeetingPageTest -->
+      <class name="testCases.StudioPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.StudioPageTest@dfd3711]" name="setUp" is-config="true" duration-ms="8512" started-at="2019-05-30T16:04:39Z" finished-at="2019-05-30T16:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="print_TODAYS_hours_of_operation()[pri:0, instance:testCases.StudioPageTest@dfd3711]" name="print_TODAYS_hours_of_operation" duration-ms="6265" started-at="2019-05-30T16:04:47Z" finished-at="2019-05-30T16:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_TODAYS_hours_of_operation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.StudioPageTest@dfd3711]" name="tearDown" is-config="true" duration-ms="7607" started-at="2019-05-30T16:04:53Z" finished-at="2019-05-30T16:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.StudioPageTest -->
+      <class name="testCases.SearchResultsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.SearchResultsPageTest@38082d64]" name="setUp" is-config="true" duration-ms="9923" started-at="2019-05-30T16:04:18Z" finished-at="2019-05-30T16:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_firstResult_studioName_and_distance()[pri:0, instance:testCases.SearchResultsPageTest@38082d64]" name="verify_firstResult_studioName_and_distance" duration-ms="5068" started-at="2019-05-30T16:04:28Z" finished-at="2019-05-30T16:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_firstResult_studioName_and_distance -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.SearchResultsPageTest@38082d64]" name="tearDown" is-config="true" duration-ms="5613" started-at="2019-05-30T16:04:33Z" finished-at="2019-05-30T16:04:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SearchResultsPageTest -->
+      <class name="testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.HomePageTest@2ed94a8b]" name="setUp" is-config="true" duration-ms="9838" started-at="2019-05-30T16:04:03Z" finished-at="2019-05-30T16:04:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleOf_home_page()[pri:0, instance:testCases.HomePageTest@2ed94a8b]" name="verifyPageTitleOf_home_page" duration-ms="17" started-at="2019-05-30T16:04:13Z" finished-at="2019-05-30T16:04:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleOf_home_page -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.HomePageTest@2ed94a8b]" name="tearDown" is-config="true" duration-ms="5139" started-at="2019-05-30T16:04:13Z" finished-at="2019-05-30T16:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
